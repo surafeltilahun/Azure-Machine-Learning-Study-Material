@@ -14,3 +14,10 @@ Used by business analysts or data engineers to analyze and prepare data
 Ingest data from technologies such as Kafka and Flume to ingest data in real-time
 3. Machine Learning
 Contains number of libraries that enables a Data Scientist to perform machine learning.
+
+# What is Azure Machine Learning
+
+A platform for operating machine learning workloads in the cloud.
+
+
+
